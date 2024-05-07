@@ -1,0 +1,14 @@
+D:\VRD\Cursos\Curso C#\C#\Struct\bin\Debug\net8.0\Struct.exe
+D:\VRD\Cursos\Curso C#\C#\Struct\bin\Debug\net8.0\Struct.deps.json
+D:\VRD\Cursos\Curso C#\C#\Struct\bin\Debug\net8.0\Struct.runtimeconfig.json
+D:\VRD\Cursos\Curso C#\C#\Struct\bin\Debug\net8.0\Struct.dll
+D:\VRD\Cursos\Curso C#\C#\Struct\bin\Debug\net8.0\Struct.pdb
+D:\VRD\Cursos\Curso C#\C#\Struct\obj\Debug\net8.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+D:\VRD\Cursos\Curso C#\C#\Struct\obj\Debug\net8.0\Struct.AssemblyInfoInputs.cache
+D:\VRD\Cursos\Curso C#\C#\Struct\obj\Debug\net8.0\Struct.AssemblyInfo.cs
+D:\VRD\Cursos\Curso C#\C#\Struct\obj\Debug\net8.0\Struct.csproj.CoreCompileInputs.cache
+D:\VRD\Cursos\Curso C#\C#\Struct\obj\Debug\net8.0\Struct.dll
+D:\VRD\Cursos\Curso C#\C#\Struct\obj\Debug\net8.0\refint\Struct.dll
+D:\VRD\Cursos\Curso C#\C#\Struct\obj\Debug\net8.0\Struct.pdb
+D:\VRD\Cursos\Curso C#\C#\Struct\obj\Debug\net8.0\Struct.genruntimeconfig.cache
+D:\VRD\Cursos\Curso C#\C#\Struct\obj\Debug\net8.0\ref\Struct.dll

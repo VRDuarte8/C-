@@ -1,0 +1,14 @@
+D:\VRD\Cursos\Curso C#\C#\EntradaDados\Ex\bin\Debug\net8.0\Ex.exe
+D:\VRD\Cursos\Curso C#\C#\EntradaDados\Ex\bin\Debug\net8.0\Ex.deps.json
+D:\VRD\Cursos\Curso C#\C#\EntradaDados\Ex\bin\Debug\net8.0\Ex.runtimeconfig.json
+D:\VRD\Cursos\Curso C#\C#\EntradaDados\Ex\bin\Debug\net8.0\Ex.dll
+D:\VRD\Cursos\Curso C#\C#\EntradaDados\Ex\bin\Debug\net8.0\Ex.pdb
+D:\VRD\Cursos\Curso C#\C#\EntradaDados\Ex\obj\Debug\net8.0\Ex.GeneratedMSBuildEditorConfig.editorconfig
+D:\VRD\Cursos\Curso C#\C#\EntradaDados\Ex\obj\Debug\net8.0\Ex.AssemblyInfoInputs.cache
+D:\VRD\Cursos\Curso C#\C#\EntradaDados\Ex\obj\Debug\net8.0\Ex.AssemblyInfo.cs
+D:\VRD\Cursos\Curso C#\C#\EntradaDados\Ex\obj\Debug\net8.0\Ex.csproj.CoreCompileInputs.cache
+D:\VRD\Cursos\Curso C#\C#\EntradaDados\Ex\obj\Debug\net8.0\Ex.dll
+D:\VRD\Cursos\Curso C#\C#\EntradaDados\Ex\obj\Debug\net8.0\refint\Ex.dll
+D:\VRD\Cursos\Curso C#\C#\EntradaDados\Ex\obj\Debug\net8.0\Ex.pdb
+D:\VRD\Cursos\Curso C#\C#\EntradaDados\Ex\obj\Debug\net8.0\Ex.genruntimeconfig.cache
+D:\VRD\Cursos\Curso C#\C#\EntradaDados\Ex\obj\Debug\net8.0\ref\Ex.dll

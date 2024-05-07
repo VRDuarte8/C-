@@ -1,0 +1,14 @@
+D:\VRD\Cursos\Curso C#\C#\EntradaDados\exercicio\bin\Debug\net8.0\exercicio.exe
+D:\VRD\Cursos\Curso C#\C#\EntradaDados\exercicio\bin\Debug\net8.0\exercicio.deps.json
+D:\VRD\Cursos\Curso C#\C#\EntradaDados\exercicio\bin\Debug\net8.0\exercicio.runtimeconfig.json
+D:\VRD\Cursos\Curso C#\C#\EntradaDados\exercicio\bin\Debug\net8.0\exercicio.dll
+D:\VRD\Cursos\Curso C#\C#\EntradaDados\exercicio\bin\Debug\net8.0\exercicio.pdb
+D:\VRD\Cursos\Curso C#\C#\EntradaDados\exercicio\obj\Debug\net8.0\exercicio.GeneratedMSBuildEditorConfig.editorconfig
+D:\VRD\Cursos\Curso C#\C#\EntradaDados\exercicio\obj\Debug\net8.0\exercicio.AssemblyInfoInputs.cache
+D:\VRD\Cursos\Curso C#\C#\EntradaDados\exercicio\obj\Debug\net8.0\exercicio.AssemblyInfo.cs
+D:\VRD\Cursos\Curso C#\C#\EntradaDados\exercicio\obj\Debug\net8.0\exercicio.csproj.CoreCompileInputs.cache
+D:\VRD\Cursos\Curso C#\C#\EntradaDados\exercicio\obj\Debug\net8.0\exercicio.dll
+D:\VRD\Cursos\Curso C#\C#\EntradaDados\exercicio\obj\Debug\net8.0\refint\exercicio.dll
+D:\VRD\Cursos\Curso C#\C#\EntradaDados\exercicio\obj\Debug\net8.0\exercicio.pdb
+D:\VRD\Cursos\Curso C#\C#\EntradaDados\exercicio\obj\Debug\net8.0\exercicio.genruntimeconfig.cache
+D:\VRD\Cursos\Curso C#\C#\EntradaDados\exercicio\obj\Debug\net8.0\ref\exercicio.dll

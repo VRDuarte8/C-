@@ -1,0 +1,14 @@
+D:\VRD\Cursos\Curso C#\C#\Banco\bin\Debug\net8.0\Banco.exe
+D:\VRD\Cursos\Curso C#\C#\Banco\bin\Debug\net8.0\Banco.deps.json
+D:\VRD\Cursos\Curso C#\C#\Banco\bin\Debug\net8.0\Banco.runtimeconfig.json
+D:\VRD\Cursos\Curso C#\C#\Banco\bin\Debug\net8.0\Banco.dll
+D:\VRD\Cursos\Curso C#\C#\Banco\bin\Debug\net8.0\Banco.pdb
+D:\VRD\Cursos\Curso C#\C#\Banco\obj\Debug\net8.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+D:\VRD\Cursos\Curso C#\C#\Banco\obj\Debug\net8.0\Banco.AssemblyInfoInputs.cache
+D:\VRD\Cursos\Curso C#\C#\Banco\obj\Debug\net8.0\Banco.AssemblyInfo.cs
+D:\VRD\Cursos\Curso C#\C#\Banco\obj\Debug\net8.0\Banco.csproj.CoreCompileInputs.cache
+D:\VRD\Cursos\Curso C#\C#\Banco\obj\Debug\net8.0\Banco.dll
+D:\VRD\Cursos\Curso C#\C#\Banco\obj\Debug\net8.0\refint\Banco.dll
+D:\VRD\Cursos\Curso C#\C#\Banco\obj\Debug\net8.0\Banco.pdb
+D:\VRD\Cursos\Curso C#\C#\Banco\obj\Debug\net8.0\Banco.genruntimeconfig.cache
+D:\VRD\Cursos\Curso C#\C#\Banco\obj\Debug\net8.0\ref\Banco.dll

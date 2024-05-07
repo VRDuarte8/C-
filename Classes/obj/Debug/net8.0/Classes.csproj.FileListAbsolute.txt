@@ -1,0 +1,14 @@
+D:\VRD\Cursos\Curso C#\C#\Classes\bin\Debug\net8.0\Classes.exe
+D:\VRD\Cursos\Curso C#\C#\Classes\bin\Debug\net8.0\Classes.deps.json
+D:\VRD\Cursos\Curso C#\C#\Classes\bin\Debug\net8.0\Classes.runtimeconfig.json
+D:\VRD\Cursos\Curso C#\C#\Classes\bin\Debug\net8.0\Classes.dll
+D:\VRD\Cursos\Curso C#\C#\Classes\bin\Debug\net8.0\Classes.pdb
+D:\VRD\Cursos\Curso C#\C#\Classes\obj\Debug\net8.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\VRD\Cursos\Curso C#\C#\Classes\obj\Debug\net8.0\Classes.AssemblyInfoInputs.cache
+D:\VRD\Cursos\Curso C#\C#\Classes\obj\Debug\net8.0\Classes.AssemblyInfo.cs
+D:\VRD\Cursos\Curso C#\C#\Classes\obj\Debug\net8.0\Classes.csproj.CoreCompileInputs.cache
+D:\VRD\Cursos\Curso C#\C#\Classes\obj\Debug\net8.0\Classes.dll
+D:\VRD\Cursos\Curso C#\C#\Classes\obj\Debug\net8.0\refint\Classes.dll
+D:\VRD\Cursos\Curso C#\C#\Classes\obj\Debug\net8.0\Classes.pdb
+D:\VRD\Cursos\Curso C#\C#\Classes\obj\Debug\net8.0\Classes.genruntimeconfig.cache
+D:\VRD\Cursos\Curso C#\C#\Classes\obj\Debug\net8.0\ref\Classes.dll

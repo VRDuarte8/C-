@@ -1,0 +1,14 @@
+D:\VRD\Cursos\Curso C#\C#\Matriz\bin\Debug\net8.0\Matriz.exe
+D:\VRD\Cursos\Curso C#\C#\Matriz\bin\Debug\net8.0\Matriz.deps.json
+D:\VRD\Cursos\Curso C#\C#\Matriz\bin\Debug\net8.0\Matriz.runtimeconfig.json
+D:\VRD\Cursos\Curso C#\C#\Matriz\bin\Debug\net8.0\Matriz.dll
+D:\VRD\Cursos\Curso C#\C#\Matriz\bin\Debug\net8.0\Matriz.pdb
+D:\VRD\Cursos\Curso C#\C#\Matriz\obj\Debug\net8.0\Matriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\VRD\Cursos\Curso C#\C#\Matriz\obj\Debug\net8.0\Matriz.AssemblyInfoInputs.cache
+D:\VRD\Cursos\Curso C#\C#\Matriz\obj\Debug\net8.0\Matriz.AssemblyInfo.cs
+D:\VRD\Cursos\Curso C#\C#\Matriz\obj\Debug\net8.0\Matriz.csproj.CoreCompileInputs.cache
+D:\VRD\Cursos\Curso C#\C#\Matriz\obj\Debug\net8.0\Matriz.dll
+D:\VRD\Cursos\Curso C#\C#\Matriz\obj\Debug\net8.0\refint\Matriz.dll
+D:\VRD\Cursos\Curso C#\C#\Matriz\obj\Debug\net8.0\Matriz.pdb
+D:\VRD\Cursos\Curso C#\C#\Matriz\obj\Debug\net8.0\Matriz.genruntimeconfig.cache
+D:\VRD\Cursos\Curso C#\C#\Matriz\obj\Debug\net8.0\ref\Matriz.dll

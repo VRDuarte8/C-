@@ -1,0 +1,14 @@
+D:\VRD\Cursos\Curso C#\C#\Vetor\bin\Debug\net8.0\Vetor.exe
+D:\VRD\Cursos\Curso C#\C#\Vetor\bin\Debug\net8.0\Vetor.deps.json
+D:\VRD\Cursos\Curso C#\C#\Vetor\bin\Debug\net8.0\Vetor.runtimeconfig.json
+D:\VRD\Cursos\Curso C#\C#\Vetor\bin\Debug\net8.0\Vetor.dll
+D:\VRD\Cursos\Curso C#\C#\Vetor\bin\Debug\net8.0\Vetor.pdb
+D:\VRD\Cursos\Curso C#\C#\Vetor\obj\Debug\net8.0\Vetor.GeneratedMSBuildEditorConfig.editorconfig
+D:\VRD\Cursos\Curso C#\C#\Vetor\obj\Debug\net8.0\Vetor.AssemblyInfoInputs.cache
+D:\VRD\Cursos\Curso C#\C#\Vetor\obj\Debug\net8.0\Vetor.AssemblyInfo.cs
+D:\VRD\Cursos\Curso C#\C#\Vetor\obj\Debug\net8.0\Vetor.csproj.CoreCompileInputs.cache
+D:\VRD\Cursos\Curso C#\C#\Vetor\obj\Debug\net8.0\Vetor.dll
+D:\VRD\Cursos\Curso C#\C#\Vetor\obj\Debug\net8.0\refint\Vetor.dll
+D:\VRD\Cursos\Curso C#\C#\Vetor\obj\Debug\net8.0\Vetor.pdb
+D:\VRD\Cursos\Curso C#\C#\Vetor\obj\Debug\net8.0\Vetor.genruntimeconfig.cache
+D:\VRD\Cursos\Curso C#\C#\Vetor\obj\Debug\net8.0\ref\Vetor.dll

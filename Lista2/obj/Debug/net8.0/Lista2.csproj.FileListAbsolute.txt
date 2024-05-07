@@ -1,0 +1,14 @@
+D:\VRD\Cursos\Curso C#\C#\Lista2\bin\Debug\net8.0\Lista2.exe
+D:\VRD\Cursos\Curso C#\C#\Lista2\bin\Debug\net8.0\Lista2.deps.json
+D:\VRD\Cursos\Curso C#\C#\Lista2\bin\Debug\net8.0\Lista2.runtimeconfig.json
+D:\VRD\Cursos\Curso C#\C#\Lista2\bin\Debug\net8.0\Lista2.dll
+D:\VRD\Cursos\Curso C#\C#\Lista2\bin\Debug\net8.0\Lista2.pdb
+D:\VRD\Cursos\Curso C#\C#\Lista2\obj\Debug\net8.0\Lista2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VRD\Cursos\Curso C#\C#\Lista2\obj\Debug\net8.0\Lista2.AssemblyInfoInputs.cache
+D:\VRD\Cursos\Curso C#\C#\Lista2\obj\Debug\net8.0\Lista2.AssemblyInfo.cs
+D:\VRD\Cursos\Curso C#\C#\Lista2\obj\Debug\net8.0\Lista2.csproj.CoreCompileInputs.cache
+D:\VRD\Cursos\Curso C#\C#\Lista2\obj\Debug\net8.0\Lista2.dll
+D:\VRD\Cursos\Curso C#\C#\Lista2\obj\Debug\net8.0\refint\Lista2.dll
+D:\VRD\Cursos\Curso C#\C#\Lista2\obj\Debug\net8.0\Lista2.pdb
+D:\VRD\Cursos\Curso C#\C#\Lista2\obj\Debug\net8.0\Lista2.genruntimeconfig.cache
+D:\VRD\Cursos\Curso C#\C#\Lista2\obj\Debug\net8.0\ref\Lista2.dll

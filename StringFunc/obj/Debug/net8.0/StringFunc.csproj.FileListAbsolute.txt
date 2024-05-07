@@ -1,0 +1,14 @@
+D:\VRD\Cursos\Curso C#\C#\StringFunc\bin\Debug\net8.0\StringFunc.exe
+D:\VRD\Cursos\Curso C#\C#\StringFunc\bin\Debug\net8.0\StringFunc.deps.json
+D:\VRD\Cursos\Curso C#\C#\StringFunc\bin\Debug\net8.0\StringFunc.runtimeconfig.json
+D:\VRD\Cursos\Curso C#\C#\StringFunc\bin\Debug\net8.0\StringFunc.dll
+D:\VRD\Cursos\Curso C#\C#\StringFunc\bin\Debug\net8.0\StringFunc.pdb
+D:\VRD\Cursos\Curso C#\C#\StringFunc\obj\Debug\net8.0\StringFunc.GeneratedMSBuildEditorConfig.editorconfig
+D:\VRD\Cursos\Curso C#\C#\StringFunc\obj\Debug\net8.0\StringFunc.AssemblyInfoInputs.cache
+D:\VRD\Cursos\Curso C#\C#\StringFunc\obj\Debug\net8.0\StringFunc.AssemblyInfo.cs
+D:\VRD\Cursos\Curso C#\C#\StringFunc\obj\Debug\net8.0\StringFunc.csproj.CoreCompileInputs.cache
+D:\VRD\Cursos\Curso C#\C#\StringFunc\obj\Debug\net8.0\StringFunc.dll
+D:\VRD\Cursos\Curso C#\C#\StringFunc\obj\Debug\net8.0\refint\StringFunc.dll
+D:\VRD\Cursos\Curso C#\C#\StringFunc\obj\Debug\net8.0\StringFunc.pdb
+D:\VRD\Cursos\Curso C#\C#\StringFunc\obj\Debug\net8.0\StringFunc.genruntimeconfig.cache
+D:\VRD\Cursos\Curso C#\C#\StringFunc\obj\Debug\net8.0\ref\StringFunc.dll
