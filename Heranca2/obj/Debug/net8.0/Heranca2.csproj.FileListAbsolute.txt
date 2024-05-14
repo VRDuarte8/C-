@@ -1,0 +1,15 @@
+D:\VRD\Cursos\Curso C#\C#\Heranca2\bin\Debug\net8.0\Heranca2.exe
+D:\VRD\Cursos\Curso C#\C#\Heranca2\bin\Debug\net8.0\Heranca2.deps.json
+D:\VRD\Cursos\Curso C#\C#\Heranca2\bin\Debug\net8.0\Heranca2.runtimeconfig.json
+D:\VRD\Cursos\Curso C#\C#\Heranca2\bin\Debug\net8.0\Heranca2.dll
+D:\VRD\Cursos\Curso C#\C#\Heranca2\bin\Debug\net8.0\Heranca2.pdb
+D:\VRD\Cursos\Curso C#\C#\Heranca2\obj\Debug\net8.0\Heranca2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VRD\Cursos\Curso C#\C#\Heranca2\obj\Debug\net8.0\Heranca2.AssemblyInfoInputs.cache
+D:\VRD\Cursos\Curso C#\C#\Heranca2\obj\Debug\net8.0\Heranca2.AssemblyInfo.cs
+D:\VRD\Cursos\Curso C#\C#\Heranca2\obj\Debug\net8.0\Heranca2.csproj.CoreCompileInputs.cache
+D:\VRD\Cursos\Curso C#\C#\Heranca2\obj\Debug\net8.0\Heranca2.sourcelink.json
+D:\VRD\Cursos\Curso C#\C#\Heranca2\obj\Debug\net8.0\Heranca2.dll
+D:\VRD\Cursos\Curso C#\C#\Heranca2\obj\Debug\net8.0\refint\Heranca2.dll
+D:\VRD\Cursos\Curso C#\C#\Heranca2\obj\Debug\net8.0\Heranca2.pdb
+D:\VRD\Cursos\Curso C#\C#\Heranca2\obj\Debug\net8.0\Heranca2.genruntimeconfig.cache
+D:\VRD\Cursos\Curso C#\C#\Heranca2\obj\Debug\net8.0\ref\Heranca2.dll

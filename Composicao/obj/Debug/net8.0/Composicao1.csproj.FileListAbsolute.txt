@@ -1,0 +1,15 @@
+D:\VRD\Cursos\Curso C#\C#\Composicao1\bin\Debug\net8.0\Composicao1.exe
+D:\VRD\Cursos\Curso C#\C#\Composicao1\bin\Debug\net8.0\Composicao1.deps.json
+D:\VRD\Cursos\Curso C#\C#\Composicao1\bin\Debug\net8.0\Composicao1.runtimeconfig.json
+D:\VRD\Cursos\Curso C#\C#\Composicao1\bin\Debug\net8.0\Composicao1.dll
+D:\VRD\Cursos\Curso C#\C#\Composicao1\bin\Debug\net8.0\Composicao1.pdb
+D:\VRD\Cursos\Curso C#\C#\Composicao1\obj\Debug\net8.0\Composicao1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VRD\Cursos\Curso C#\C#\Composicao1\obj\Debug\net8.0\Composicao1.AssemblyInfoInputs.cache
+D:\VRD\Cursos\Curso C#\C#\Composicao1\obj\Debug\net8.0\Composicao1.AssemblyInfo.cs
+D:\VRD\Cursos\Curso C#\C#\Composicao1\obj\Debug\net8.0\Composicao1.csproj.CoreCompileInputs.cache
+D:\VRD\Cursos\Curso C#\C#\Composicao1\obj\Debug\net8.0\Composicao1.sourcelink.json
+D:\VRD\Cursos\Curso C#\C#\Composicao1\obj\Debug\net8.0\Composicao1.dll
+D:\VRD\Cursos\Curso C#\C#\Composicao1\obj\Debug\net8.0\refint\Composicao1.dll
+D:\VRD\Cursos\Curso C#\C#\Composicao1\obj\Debug\net8.0\Composicao1.pdb
+D:\VRD\Cursos\Curso C#\C#\Composicao1\obj\Debug\net8.0\Composicao1.genruntimeconfig.cache
+D:\VRD\Cursos\Curso C#\C#\Composicao1\obj\Debug\net8.0\ref\Composicao1.dll

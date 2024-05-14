@@ -1,0 +1,15 @@
+D:\VRD\Cursos\Curso C#\C#\Enum\bin\Debug\net8.0\Enum.exe
+D:\VRD\Cursos\Curso C#\C#\Enum\bin\Debug\net8.0\Enum.deps.json
+D:\VRD\Cursos\Curso C#\C#\Enum\bin\Debug\net8.0\Enum.runtimeconfig.json
+D:\VRD\Cursos\Curso C#\C#\Enum\bin\Debug\net8.0\Enum.dll
+D:\VRD\Cursos\Curso C#\C#\Enum\bin\Debug\net8.0\Enum.pdb
+D:\VRD\Cursos\Curso C#\C#\Enum\obj\Debug\net8.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\VRD\Cursos\Curso C#\C#\Enum\obj\Debug\net8.0\Enum.AssemblyInfoInputs.cache
+D:\VRD\Cursos\Curso C#\C#\Enum\obj\Debug\net8.0\Enum.AssemblyInfo.cs
+D:\VRD\Cursos\Curso C#\C#\Enum\obj\Debug\net8.0\Enum.csproj.CoreCompileInputs.cache
+D:\VRD\Cursos\Curso C#\C#\Enum\obj\Debug\net8.0\Enum.sourcelink.json
+D:\VRD\Cursos\Curso C#\C#\Enum\obj\Debug\net8.0\Enum.dll
+D:\VRD\Cursos\Curso C#\C#\Enum\obj\Debug\net8.0\refint\Enum.dll
+D:\VRD\Cursos\Curso C#\C#\Enum\obj\Debug\net8.0\Enum.pdb
+D:\VRD\Cursos\Curso C#\C#\Enum\obj\Debug\net8.0\Enum.genruntimeconfig.cache
+D:\VRD\Cursos\Curso C#\C#\Enum\obj\Debug\net8.0\ref\Enum.dll

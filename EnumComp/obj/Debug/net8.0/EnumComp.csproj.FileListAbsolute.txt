@@ -1,0 +1,15 @@
+D:\VRD\Cursos\Curso C#\C#\EnumComp\bin\Debug\net8.0\EnumComp.exe
+D:\VRD\Cursos\Curso C#\C#\EnumComp\bin\Debug\net8.0\EnumComp.deps.json
+D:\VRD\Cursos\Curso C#\C#\EnumComp\bin\Debug\net8.0\EnumComp.runtimeconfig.json
+D:\VRD\Cursos\Curso C#\C#\EnumComp\bin\Debug\net8.0\EnumComp.dll
+D:\VRD\Cursos\Curso C#\C#\EnumComp\bin\Debug\net8.0\EnumComp.pdb
+D:\VRD\Cursos\Curso C#\C#\EnumComp\obj\Debug\net8.0\EnumComp.GeneratedMSBuildEditorConfig.editorconfig
+D:\VRD\Cursos\Curso C#\C#\EnumComp\obj\Debug\net8.0\EnumComp.AssemblyInfoInputs.cache
+D:\VRD\Cursos\Curso C#\C#\EnumComp\obj\Debug\net8.0\EnumComp.AssemblyInfo.cs
+D:\VRD\Cursos\Curso C#\C#\EnumComp\obj\Debug\net8.0\EnumComp.csproj.CoreCompileInputs.cache
+D:\VRD\Cursos\Curso C#\C#\EnumComp\obj\Debug\net8.0\EnumComp.sourcelink.json
+D:\VRD\Cursos\Curso C#\C#\EnumComp\obj\Debug\net8.0\EnumComp.dll
+D:\VRD\Cursos\Curso C#\C#\EnumComp\obj\Debug\net8.0\refint\EnumComp.dll
+D:\VRD\Cursos\Curso C#\C#\EnumComp\obj\Debug\net8.0\EnumComp.pdb
+D:\VRD\Cursos\Curso C#\C#\EnumComp\obj\Debug\net8.0\EnumComp.genruntimeconfig.cache
+D:\VRD\Cursos\Curso C#\C#\EnumComp\obj\Debug\net8.0\ref\EnumComp.dll

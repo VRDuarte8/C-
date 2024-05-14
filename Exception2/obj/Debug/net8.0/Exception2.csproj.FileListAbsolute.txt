@@ -1,0 +1,15 @@
+D:\VRD\Cursos\Curso C#\C#\Exception2\bin\Debug\net8.0\Exception2.exe
+D:\VRD\Cursos\Curso C#\C#\Exception2\bin\Debug\net8.0\Exception2.deps.json
+D:\VRD\Cursos\Curso C#\C#\Exception2\bin\Debug\net8.0\Exception2.runtimeconfig.json
+D:\VRD\Cursos\Curso C#\C#\Exception2\bin\Debug\net8.0\Exception2.dll
+D:\VRD\Cursos\Curso C#\C#\Exception2\bin\Debug\net8.0\Exception2.pdb
+D:\VRD\Cursos\Curso C#\C#\Exception2\obj\Debug\net8.0\Exception2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VRD\Cursos\Curso C#\C#\Exception2\obj\Debug\net8.0\Exception2.AssemblyInfoInputs.cache
+D:\VRD\Cursos\Curso C#\C#\Exception2\obj\Debug\net8.0\Exception2.AssemblyInfo.cs
+D:\VRD\Cursos\Curso C#\C#\Exception2\obj\Debug\net8.0\Exception2.csproj.CoreCompileInputs.cache
+D:\VRD\Cursos\Curso C#\C#\Exception2\obj\Debug\net8.0\Exception2.sourcelink.json
+D:\VRD\Cursos\Curso C#\C#\Exception2\obj\Debug\net8.0\Exception2.dll
+D:\VRD\Cursos\Curso C#\C#\Exception2\obj\Debug\net8.0\refint\Exception2.dll
+D:\VRD\Cursos\Curso C#\C#\Exception2\obj\Debug\net8.0\Exception2.pdb
+D:\VRD\Cursos\Curso C#\C#\Exception2\obj\Debug\net8.0\Exception2.genruntimeconfig.cache
+D:\VRD\Cursos\Curso C#\C#\Exception2\obj\Debug\net8.0\ref\Exception2.dll
