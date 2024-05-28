@@ -1,0 +1,15 @@
+D:\VRD\Cursos\Curso C#\C#\Arquivos\bin\Debug\net8.0\Arquivos.exe
+D:\VRD\Cursos\Curso C#\C#\Arquivos\bin\Debug\net8.0\Arquivos.deps.json
+D:\VRD\Cursos\Curso C#\C#\Arquivos\bin\Debug\net8.0\Arquivos.runtimeconfig.json
+D:\VRD\Cursos\Curso C#\C#\Arquivos\bin\Debug\net8.0\Arquivos.dll
+D:\VRD\Cursos\Curso C#\C#\Arquivos\bin\Debug\net8.0\Arquivos.pdb
+D:\VRD\Cursos\Curso C#\C#\Arquivos\obj\Debug\net8.0\Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+D:\VRD\Cursos\Curso C#\C#\Arquivos\obj\Debug\net8.0\Arquivos.AssemblyInfoInputs.cache
+D:\VRD\Cursos\Curso C#\C#\Arquivos\obj\Debug\net8.0\Arquivos.AssemblyInfo.cs
+D:\VRD\Cursos\Curso C#\C#\Arquivos\obj\Debug\net8.0\Arquivos.csproj.CoreCompileInputs.cache
+D:\VRD\Cursos\Curso C#\C#\Arquivos\obj\Debug\net8.0\Arquivos.sourcelink.json
+D:\VRD\Cursos\Curso C#\C#\Arquivos\obj\Debug\net8.0\Arquivos.dll
+D:\VRD\Cursos\Curso C#\C#\Arquivos\obj\Debug\net8.0\refint\Arquivos.dll
+D:\VRD\Cursos\Curso C#\C#\Arquivos\obj\Debug\net8.0\Arquivos.pdb
+D:\VRD\Cursos\Curso C#\C#\Arquivos\obj\Debug\net8.0\Arquivos.genruntimeconfig.cache
+D:\VRD\Cursos\Curso C#\C#\Arquivos\obj\Debug\net8.0\ref\Arquivos.dll

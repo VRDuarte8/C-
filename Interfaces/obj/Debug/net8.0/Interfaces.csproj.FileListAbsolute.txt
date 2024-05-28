@@ -1,0 +1,15 @@
+D:\VRD\Cursos\Curso C#\C#\Interfaces\bin\Debug\net8.0\Interfaces.exe
+D:\VRD\Cursos\Curso C#\C#\Interfaces\bin\Debug\net8.0\Interfaces.deps.json
+D:\VRD\Cursos\Curso C#\C#\Interfaces\bin\Debug\net8.0\Interfaces.runtimeconfig.json
+D:\VRD\Cursos\Curso C#\C#\Interfaces\bin\Debug\net8.0\Interfaces.dll
+D:\VRD\Cursos\Curso C#\C#\Interfaces\bin\Debug\net8.0\Interfaces.pdb
+D:\VRD\Cursos\Curso C#\C#\Interfaces\obj\Debug\net8.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\VRD\Cursos\Curso C#\C#\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfoInputs.cache
+D:\VRD\Cursos\Curso C#\C#\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfo.cs
+D:\VRD\Cursos\Curso C#\C#\Interfaces\obj\Debug\net8.0\Interfaces.csproj.CoreCompileInputs.cache
+D:\VRD\Cursos\Curso C#\C#\Interfaces\obj\Debug\net8.0\Interfaces.sourcelink.json
+D:\VRD\Cursos\Curso C#\C#\Interfaces\obj\Debug\net8.0\Interfaces.dll
+D:\VRD\Cursos\Curso C#\C#\Interfaces\obj\Debug\net8.0\refint\Interfaces.dll
+D:\VRD\Cursos\Curso C#\C#\Interfaces\obj\Debug\net8.0\Interfaces.pdb
+D:\VRD\Cursos\Curso C#\C#\Interfaces\obj\Debug\net8.0\Interfaces.genruntimeconfig.cache
+D:\VRD\Cursos\Curso C#\C#\Interfaces\obj\Debug\net8.0\ref\Interfaces.dll

@@ -1,0 +1,15 @@
+D:\VRD\Cursos\Curso C#\C#\Conjuntos\bin\Debug\net8.0\Conjuntos.exe
+D:\VRD\Cursos\Curso C#\C#\Conjuntos\bin\Debug\net8.0\Conjuntos.deps.json
+D:\VRD\Cursos\Curso C#\C#\Conjuntos\bin\Debug\net8.0\Conjuntos.runtimeconfig.json
+D:\VRD\Cursos\Curso C#\C#\Conjuntos\bin\Debug\net8.0\Conjuntos.dll
+D:\VRD\Cursos\Curso C#\C#\Conjuntos\bin\Debug\net8.0\Conjuntos.pdb
+D:\VRD\Cursos\Curso C#\C#\Conjuntos\obj\Debug\net8.0\Conjuntos.GeneratedMSBuildEditorConfig.editorconfig
+D:\VRD\Cursos\Curso C#\C#\Conjuntos\obj\Debug\net8.0\Conjuntos.AssemblyInfoInputs.cache
+D:\VRD\Cursos\Curso C#\C#\Conjuntos\obj\Debug\net8.0\Conjuntos.AssemblyInfo.cs
+D:\VRD\Cursos\Curso C#\C#\Conjuntos\obj\Debug\net8.0\Conjuntos.csproj.CoreCompileInputs.cache
+D:\VRD\Cursos\Curso C#\C#\Conjuntos\obj\Debug\net8.0\Conjuntos.sourcelink.json
+D:\VRD\Cursos\Curso C#\C#\Conjuntos\obj\Debug\net8.0\Conjuntos.dll
+D:\VRD\Cursos\Curso C#\C#\Conjuntos\obj\Debug\net8.0\refint\Conjuntos.dll
+D:\VRD\Cursos\Curso C#\C#\Conjuntos\obj\Debug\net8.0\Conjuntos.pdb
+D:\VRD\Cursos\Curso C#\C#\Conjuntos\obj\Debug\net8.0\Conjuntos.genruntimeconfig.cache
+D:\VRD\Cursos\Curso C#\C#\Conjuntos\obj\Debug\net8.0\ref\Conjuntos.dll

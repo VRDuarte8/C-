@@ -1,0 +1,15 @@
+D:\VRD\Cursos\Curso C#\C#\Dictionary\bin\Debug\net8.0\Dictionary.exe
+D:\VRD\Cursos\Curso C#\C#\Dictionary\bin\Debug\net8.0\Dictionary.deps.json
+D:\VRD\Cursos\Curso C#\C#\Dictionary\bin\Debug\net8.0\Dictionary.runtimeconfig.json
+D:\VRD\Cursos\Curso C#\C#\Dictionary\bin\Debug\net8.0\Dictionary.dll
+D:\VRD\Cursos\Curso C#\C#\Dictionary\bin\Debug\net8.0\Dictionary.pdb
+D:\VRD\Cursos\Curso C#\C#\Dictionary\obj\Debug\net8.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\VRD\Cursos\Curso C#\C#\Dictionary\obj\Debug\net8.0\Dictionary.AssemblyInfoInputs.cache
+D:\VRD\Cursos\Curso C#\C#\Dictionary\obj\Debug\net8.0\Dictionary.AssemblyInfo.cs
+D:\VRD\Cursos\Curso C#\C#\Dictionary\obj\Debug\net8.0\Dictionary.csproj.CoreCompileInputs.cache
+D:\VRD\Cursos\Curso C#\C#\Dictionary\obj\Debug\net8.0\Dictionary.sourcelink.json
+D:\VRD\Cursos\Curso C#\C#\Dictionary\obj\Debug\net8.0\Dictionary.dll
+D:\VRD\Cursos\Curso C#\C#\Dictionary\obj\Debug\net8.0\refint\Dictionary.dll
+D:\VRD\Cursos\Curso C#\C#\Dictionary\obj\Debug\net8.0\Dictionary.pdb
+D:\VRD\Cursos\Curso C#\C#\Dictionary\obj\Debug\net8.0\Dictionary.genruntimeconfig.cache
+D:\VRD\Cursos\Curso C#\C#\Dictionary\obj\Debug\net8.0\ref\Dictionary.dll

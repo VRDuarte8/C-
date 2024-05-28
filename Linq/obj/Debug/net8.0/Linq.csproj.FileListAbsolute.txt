@@ -1,0 +1,15 @@
+D:\VRD\Cursos\Curso C#\C#\Linq\bin\Debug\net8.0\Linq.exe
+D:\VRD\Cursos\Curso C#\C#\Linq\bin\Debug\net8.0\Linq.deps.json
+D:\VRD\Cursos\Curso C#\C#\Linq\bin\Debug\net8.0\Linq.runtimeconfig.json
+D:\VRD\Cursos\Curso C#\C#\Linq\bin\Debug\net8.0\Linq.dll
+D:\VRD\Cursos\Curso C#\C#\Linq\bin\Debug\net8.0\Linq.pdb
+D:\VRD\Cursos\Curso C#\C#\Linq\obj\Debug\net8.0\Linq.GeneratedMSBuildEditorConfig.editorconfig
+D:\VRD\Cursos\Curso C#\C#\Linq\obj\Debug\net8.0\Linq.AssemblyInfoInputs.cache
+D:\VRD\Cursos\Curso C#\C#\Linq\obj\Debug\net8.0\Linq.AssemblyInfo.cs
+D:\VRD\Cursos\Curso C#\C#\Linq\obj\Debug\net8.0\Linq.csproj.CoreCompileInputs.cache
+D:\VRD\Cursos\Curso C#\C#\Linq\obj\Debug\net8.0\Linq.sourcelink.json
+D:\VRD\Cursos\Curso C#\C#\Linq\obj\Debug\net8.0\Linq.dll
+D:\VRD\Cursos\Curso C#\C#\Linq\obj\Debug\net8.0\refint\Linq.dll
+D:\VRD\Cursos\Curso C#\C#\Linq\obj\Debug\net8.0\Linq.pdb
+D:\VRD\Cursos\Curso C#\C#\Linq\obj\Debug\net8.0\Linq.genruntimeconfig.cache
+D:\VRD\Cursos\Curso C#\C#\Linq\obj\Debug\net8.0\ref\Linq.dll
